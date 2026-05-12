@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0044",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 법인카드 계좌번호 생성 및 변경 요청서",
+  "titleEn": "U4A Sample Application - Corporate Card Account Creation/Change Request",
+  "descriptionKo": "법인카드 연결 계좌의 생성 및 정보를 변경하는 요청 화면.",
+  "descriptionEn": "Request screen for the creation and information modification of accounts linked to corporate cards.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0044/YUA_TPL0044.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0044/YUA_TPL0044.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0044",
+    "yua-tpl0044",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0044",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0044/YUA_TPL0044.U4A",
+      "media": "v1.120.21/YUA_TPL0044/YUA_TPL0044.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0044/YUA_TPL0044.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
