@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0041",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 법인카드다중전표",
+  "titleEn": "U4A Sample Application - Corporate Card Multi-Voucher",
+  "descriptionKo": "법인카드 내역에 대한 다중 전표 처리 화면.",
+  "descriptionEn": "Multi-voucher processing screen for corporate card transaction history.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0041/YUA_TPL0041.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0041/YUA_TPL0041.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0041",
+    "yua-tpl0041",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0041",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0041/YUA_TPL0041.U4A",
+      "media": "v1.120.21/YUA_TPL0041/YUA_TPL0041.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0041/YUA_TPL0041.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
