@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0037",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 조회 조건 및 테이블 편집 #2",
+  "titleEn": "U4A Sample Application - Search Conditions & Editable Table #2",
+  "descriptionKo": "Rich Text Editor 활용 및 다양한 입력 필드와 테이블로 구성된 화면 예시.",
+  "descriptionEn": "Screen example utilizing a Rich Text Editor alongside diverse input fields and table configurations.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0037/YUA_TPL0037.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0037/YUA_TPL0037.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0037",
+    "yua-tpl0037",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0037",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0037/YUA_TPL0037.U4A",
+      "media": "v1.120.21/YUA_TPL0037/YUA_TPL0037.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0037/YUA_TPL0037.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
