@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0062",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 거래처 계층구조 변경 요청서",
+  "titleEn": "U4A Sample Application - Customer Hierarchy Change Request",
+  "descriptionKo": "거래처 간 계층 관계(본사-지사 등)의 변경을 요청하는 화면.",
+  "descriptionEn": "Request screen for modifying hierarchical relationships (e.g., Headquarter-Branch) between customers.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0062/YUA_TPL0062.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0062/YUA_TPL0062.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0062",
+    "yua-tpl0062",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0062",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0062/YUA_TPL0062.U4A",
+      "media": "v1.120.21/YUA_TPL0062/YUA_TPL0062.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0062/YUA_TPL0062.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
