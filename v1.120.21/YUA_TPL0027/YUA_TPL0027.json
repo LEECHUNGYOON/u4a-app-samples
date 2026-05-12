@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0027",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "U4A Sample Application 화면 - 산지구매상품 등록 (모바일)",
+  "titleEn": "U4A Sample Application - Origin Sourced Product Registration (Mobile)",
+  "descriptionKo": "모바일 환경에서 산지 구매 상품 정보를 입력하는 폼 화면 예시.",
+  "descriptionEn": "Form screen example for entering product information sourced from origin, optimized for mobile.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0027/YUA_TPL0027.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0027/YUA_TPL0027.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0027",
+    "yua-tpl0027",
+    "1.120.21",
+    "mobile",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0027",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0027/YUA_TPL0027.U4A",
+      "media": "v1.120.21/YUA_TPL0027/YUA_TPL0027.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0027/YUA_TPL0027.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
