@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0047",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 재무고객 마스터 변경 품의서",
+  "titleEn": "U4A Sample Application - Financial Customer Master Change Proposal",
+  "descriptionKo": "기존 재무 고객 마스터 정보 변경을 위한 결재 화면.",
+  "descriptionEn": "Approval screen for proposing changes to existing financial customer master information.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0047/YUA_TPL0047.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0047/YUA_TPL0047.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0047",
+    "yua-tpl0047",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0047",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0047/YUA_TPL0047.U4A",
+      "media": "v1.120.21/YUA_TPL0047/YUA_TPL0047.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0047/YUA_TPL0047.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
