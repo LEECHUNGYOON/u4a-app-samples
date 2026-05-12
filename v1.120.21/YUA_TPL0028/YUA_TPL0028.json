@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0028",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "U4A Sample Application 화면 - 폐기/시식 현황 조회 (모바일)",
+  "titleEn": "U4A Sample Application - Disposal/Tasting Status Inquiry (Mobile)",
+  "descriptionKo": "모바일 환경에서 폐기 및 시식 상품 현황을 조회하는 테이블 화면 예시.",
+  "descriptionEn": "Table screen example for inquiring about product disposal and tasting status on mobile.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0028/YUA_TPL0028.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0028/YUA_TPL0028.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0028",
+    "yua-tpl0028",
+    "1.120.21",
+    "mobile",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0028",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0028/YUA_TPL0028.U4A",
+      "media": "v1.120.21/YUA_TPL0028/YUA_TPL0028.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0028/YUA_TPL0028.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
