@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0063",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 거래처 결제조건 변경 요청서",
+  "titleEn": "U4A Sample Application - Customer Payment Terms Change Request",
+  "descriptionKo": "거래처와 합의된 결제 기간 및 방식 변경을 요청하는 화면.",
+  "descriptionEn": "Request screen for modifying agreed payment terms and methods with customers.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0063/YUA_TPL0063.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0063/YUA_TPL0063.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0063",
+    "yua-tpl0063",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0063",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0063/YUA_TPL0063.U4A",
+      "media": "v1.120.21/YUA_TPL0063/YUA_TPL0063.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0063/YUA_TPL0063.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
