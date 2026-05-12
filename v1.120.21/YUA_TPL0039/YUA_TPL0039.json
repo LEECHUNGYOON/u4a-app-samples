@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0039",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 단기알바 예산 추가요청서(휴직 대체)",
+  "titleEn": "U4A Sample Application - Temporary Staff Budget Request (Leave Replacement)",
+  "descriptionKo": "휴직 대체 단기 아르바이트 예산 추가 요청 화면.",
+  "descriptionEn": "Request screen for additional temporary staffing budget to replace employees on leave.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0039/YUA_TPL0039.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0039/YUA_TPL0039.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0039",
+    "yua-tpl0039",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0039",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0039/YUA_TPL0039.U4A",
+      "media": "v1.120.21/YUA_TPL0039/YUA_TPL0039.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0039/YUA_TPL0039.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
