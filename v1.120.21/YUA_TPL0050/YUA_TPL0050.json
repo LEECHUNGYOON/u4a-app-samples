@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0050",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 부동산 임대차 계약 보고서",
+  "titleEn": "U4A Sample Application - Real Estate Lease Agreement Report",
+  "descriptionKo": "부동산 임대 및 차입 계약 현황 보고 화면.",
+  "descriptionEn": "Reporting screen for the status of real estate leasing and rental agreements.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0050/YUA_TPL0050.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0050/YUA_TPL0050.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0050",
+    "yua-tpl0050",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0050",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0050/YUA_TPL0050.U4A",
+      "media": "v1.120.21/YUA_TPL0050/YUA_TPL0050.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0050/YUA_TPL0050.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
