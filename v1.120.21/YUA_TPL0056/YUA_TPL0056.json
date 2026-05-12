@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0056",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - GL 계정 변경 요청_계정과목표",
+  "titleEn": "U4A Sample Application - G/L Account Change Request (Chart of Accounts)",
+  "descriptionKo": "계정과목표(COA) 레벨에서의 G/L 계정 정보 변경 요청 화면.",
+  "descriptionEn": "Request screen for modifying G/L account information at the Chart of Accounts (COA) level.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0056/YUA_TPL0056.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0056/YUA_TPL0056.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0056",
+    "yua-tpl0056",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0056",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0056/YUA_TPL0056.U4A",
+      "media": "v1.120.21/YUA_TPL0056/YUA_TPL0056.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0056/YUA_TPL0056.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
