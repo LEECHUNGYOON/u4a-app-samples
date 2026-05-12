@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0051",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 차량지급신청서",
+  "titleEn": "U4A Sample Application - Vehicle Assignment Application",
+  "descriptionKo": "업무용 차량의 지급을 신청하는 화면.",
+  "descriptionEn": "Application screen for requesting the assignment of a business vehicle.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0051/YUA_TPL0051.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0051/YUA_TPL0051.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0051",
+    "yua-tpl0051",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0051",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0051/YUA_TPL0051.U4A",
+      "media": "v1.120.21/YUA_TPL0051/YUA_TPL0051.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0051/YUA_TPL0051.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
