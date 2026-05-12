@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0066",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 여신초과운영품의",
+  "titleEn": "U4A Sample Application - Credit Limit Excess Operation Proposal",
+  "descriptionKo": "거래처의 설정된 여신 한도를 초과하여 거래를 지속하기 위한 결재 화면.",
+  "descriptionEn": "Approval screen for proposing continued operations exceeding a customer's established credit limit.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0066/YUA_TPL0066.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0066/YUA_TPL0066.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0066",
+    "yua-tpl0066",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0066",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0066/YUA_TPL0066.U4A",
+      "media": "v1.120.21/YUA_TPL0066/YUA_TPL0066.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0066/YUA_TPL0066.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
