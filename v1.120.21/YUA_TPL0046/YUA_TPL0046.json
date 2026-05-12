@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0046",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 신규 재무고객 개설 품의서",
+  "titleEn": "U4A Sample Application - New Financial Customer Opening Proposal",
+  "descriptionKo": "신규 재무 관련 고객사 개설을 위한 내부 결재 화면.",
+  "descriptionEn": "Internal approval screen for proposing the creation of a new financial-related customer.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0046/YUA_TPL0046.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0046/YUA_TPL0046.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0046",
+    "yua-tpl0046",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0046",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0046/YUA_TPL0046.U4A",
+      "media": "v1.120.21/YUA_TPL0046/YUA_TPL0046.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0046/YUA_TPL0046.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
