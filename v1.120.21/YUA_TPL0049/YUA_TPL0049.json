@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0049",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 거래처 (-)미수이관 품의서",
+  "titleEn": "U4A Sample Application - Customer Negative AR Transfer Proposal",
+  "descriptionKo": "거래처의 마이너스 미수금 이관 처리를 위한 결재 화면.",
+  "descriptionEn": "Approval screen for proposing the transfer of negative Accounts Receivable (AR) for a customer.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0049/YUA_TPL0049.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0049/YUA_TPL0049.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0049",
+    "yua-tpl0049",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0049",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0049/YUA_TPL0049.U4A",
+      "media": "v1.120.21/YUA_TPL0049/YUA_TPL0049.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0049/YUA_TPL0049.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
