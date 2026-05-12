@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0036",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 거래처 마스터변경 요청서",
+  "titleEn": "U4A Sample Application - Customer Master Change Request",
+  "descriptionKo": "거래처 정보 변경 요청을 위한 Before/After 입력 폼 화면 예시.",
+  "descriptionEn": "Input form screen example showcasing 'Before/After' data for customer information change requests.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0036/YUA_TPL0036.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0036/YUA_TPL0036.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0036",
+    "yua-tpl0036",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0036",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0036/YUA_TPL0036.U4A",
+      "media": "v1.120.21/YUA_TPL0036/YUA_TPL0036.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0036/YUA_TPL0036.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
