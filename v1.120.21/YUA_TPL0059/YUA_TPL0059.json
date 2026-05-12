@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0059",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 센터 부진재고 전환 요청",
+  "titleEn": "U4A Sample Application - Center Slow-Moving Stock Conversion Request",
+  "descriptionKo": "물류 센터의 장기 미판매 부진 재고에 대한 전환 요청 화면.",
+  "descriptionEn": "Request screen for the conversion of long-term unsold or slow-moving inventory in logistics centers.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0059/YUA_TPL0059.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0059/YUA_TPL0059.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0059",
+    "yua-tpl0059",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0059",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0059/YUA_TPL0059.U4A",
+      "media": "v1.120.21/YUA_TPL0059/YUA_TPL0059.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0059/YUA_TPL0059.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
