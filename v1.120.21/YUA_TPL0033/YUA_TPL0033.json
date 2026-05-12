@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0033",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 검색 조건 구성 및 검색 결과 링크 이벤트",
+  "titleEn": "U4A Sample Application - Search Conditions & Link Events",
+  "descriptionKo": "간단한 조회 조건과 테이블로 구성된 검색 결과 링크 이벤트 예시.",
+  "descriptionEn": "Example demonstrating link events within search results for screens with simple query conditions and tables.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0033/YUA_TPL0033.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0033/YUA_TPL0033.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0033",
+    "yua-tpl0033",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0033",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0033/YUA_TPL0033.U4A",
+      "media": "v1.120.21/YUA_TPL0033/YUA_TPL0033.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0033/YUA_TPL0033.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
