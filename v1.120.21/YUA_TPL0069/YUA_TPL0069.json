@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0069",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 연간 영업예산 요청서",
+  "titleEn": "U4A Sample Application - Annual Sales Budget Request",
+  "descriptionKo": "익년도 전체 영업 계획에 따른 예산 수립 요청 화면.",
+  "descriptionEn": "Budget establishment request screen based on the overall sales plan for the following year.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0069/YUA_TPL0069.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0069/YUA_TPL0069.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0069",
+    "yua-tpl0069",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0069",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0069/YUA_TPL0069.U4A",
+      "media": "v1.120.21/YUA_TPL0069/YUA_TPL0069.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0069/YUA_TPL0069.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
