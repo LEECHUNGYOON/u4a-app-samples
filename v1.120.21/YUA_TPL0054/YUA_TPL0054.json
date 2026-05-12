@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0054",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - GL 계정 생성 요청",
+  "titleEn": "U4A Sample Application - G/L Account Creation Request",
+  "descriptionKo": "신규 총계정원장(G/L) 계정의 생성을 요청하는 화면.",
+  "descriptionEn": "Request screen for the creation of a new General Ledger (G/L) account.",
+  "appFileUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0054/YUA_TPL0054.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/LEECHUNGYOON/u4a-app-samples/main/v1.120.21/YUA_TPL0054/YUA_TPL0054.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0054",
+    "yua-tpl0054",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "LEECHUNGYOON",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0054",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0054/YUA_TPL0054.U4A",
+      "media": "v1.120.21/YUA_TPL0054/YUA_TPL0054.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0054/YUA_TPL0054.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
